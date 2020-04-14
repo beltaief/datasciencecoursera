@@ -1,7 +1,0 @@
----
-title: "HelloWorld"
-author: "Olfa Beltaief"
-date: "14 avril 2020"
-output: pdf_document
----
-## This is a markdown file
